@@ -2,9 +2,7 @@
 
 We use git to do version contorl. We have a github repo for our project: https://github.com/full-stack-final-project/Block-Security-Contests-Website/tree/main/contest-website/database
 
-It is private right now and we will publish it after this course. Prof. Lu, if you want to see our repo during project1-project3, please let us know you github email, and we will send you a invitation. 
-
-## Group member
+## member
 
 Yihua Hu; 
 Junhao Qiu
